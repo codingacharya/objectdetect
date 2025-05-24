@@ -9,3 +9,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 python app.py
+
+
+**youtube link https://youtu.be/vYdMVoCHMWE**
