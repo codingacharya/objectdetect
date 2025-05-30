@@ -3,3 +3,7 @@ torch
 torchvision
 opencv-python
 mysql-connector-python
+pandas
+numpy
+seaborn
+requests
